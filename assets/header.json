@@ -1,0 +1,14 @@
+{
+  "name"  : "Hector Mayahua",
+  "grados y titulos"   : "Ninguno",
+  "mision"   : "Terminar",
+  "foto" : "6e73875c-896a-4d54-a927-1fb00572b3af",
+  "email" : "hmayahua23@gmail.com",
+  "cel"   : "(272) 122 86 71",
+  "red social" : "",
+  "ciudad y pais"   : "Orizaba, Mexico",
+  "social": {
+    "face": "^2.8.5",
+    "x": "^4.18.2"
+  }
+}
